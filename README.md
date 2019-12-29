@@ -3,7 +3,7 @@ my first website
 
 please read
 
-crazymunde.html is the mainpage
+crazymunde.html is the mainpage<br>
 style.css is the CSS file
 added a music 
 added a gif
