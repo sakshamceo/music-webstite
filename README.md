@@ -3,8 +3,10 @@ my first website
 
 please read
 
-crazymunde.html is the mainpage<br>
-style.css is the CSS file
-added a music 
-added a gif
-added background image sorrry bout that :p
+<em>crazymunde.html is the mainpage</em><br>
+<ul>
+  <li>style.css is the CSS file</li>
+<li>added a music </li>
+<li>added a gif</li>
+<li>added background image sorrry bout that :p</li>
+  </ul>
